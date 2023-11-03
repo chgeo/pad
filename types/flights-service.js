@@ -11,7 +11,7 @@ class FlightsService extends cds.ApplicationService {
     // })
 
     // ✨ with cds-typer
-    // const { Flights } = require('#cds-models/FlightsService')
+    // const { Flights, Flight } = require('#cds-models/FlightsService')
     // this.before('CREATE', Flights, ({ data }) => { 
     //     /* data is of type Flights */
     //     data[0].flightDate
